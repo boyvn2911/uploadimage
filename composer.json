@@ -1,0 +1,13 @@
+{
+    "name": "chocochip/uploadimage",
+    "description": "A package for uploading image and creating a thumbnail",
+    "type": "php",
+    "authors": [
+        {
+            "name": "chocochip",
+            "email": "boyvn2911@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
